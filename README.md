@@ -7,7 +7,7 @@ A simple web-based image search engine using the **Unsplash API**.
 - Displays **12 images per page** with a **"Show More"** button for more results.  
 - Click on images to view them directly on **Unsplash**.
 
-  ![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/f7450faf-fc07-4f27-bae4-bb416ab46699)
 
 
 ## Technologies Used  
